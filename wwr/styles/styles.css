@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Poppins:ital@1&display=swap');
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+}
+nav a {
+    text-align: center;
+    margin: 15px;
+    font-size: 1.25em;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 35px;
+    background-color: #7dc4d5;
+    color:#154467;
+} 
+#hero-msg h1 {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "Poppins", "Helvetica", "sans-serif";
+    color:#7dc4d5
+}
+#hero-msg h4 {
+    text-align: center;
+    font-size: 2em;
+    font-family: "Poppins", "Helvetica", "sans-serif";
+    color:#7dc4d5
+}
+#background.msg {
+    background-color: #7dc4d5;
+}
+body {
+    background-color: white;
+    color: #154467;  /* rgb(21,68,103)*/
+    font-family: "manrope", "poppins", "sans-serif";
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #7dc4d5;  /*rgb(125,196,213) water color from logo */
+    color:#154467;
+}
+footer {
+    background-color: #7dc4d5;  /*rgb(125,196,213) water color from logo */
+    font-family: "manrope", "poppins", "sans-serif";
+    text-align: center;
+    font-weight: 700;
+    color:#154467;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+nav a:hover {
+    background-color: #fce172;
+    padding: 2px;
+}
+a.book {
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 15px 30px;
+    margin-top: 50px;
+    color: black;
+    border-radius: 5px;
+    background-color: #7dc4d5;
+}
+.book:hover{
+    background-color: #fce172;
+} 
+a.join {
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Poppins", "Helvetica", "sans-serif";
+    color: black;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 15px 30px;
+    background-color: #7dc4d5;
+}
+a.join:hover {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #fce172;
+}
+#background {
+    text-align: center;
+    text-decoration: none;
+}
+.logo {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#main.icon {
+    width: 80px;
+}
+#hero-msg {
+    background-color:#154467
+}
+#hero-img {
+    width: 100%;
+}
+main section {
+    text-align: center;
+}
+main section img {
+    box-sizing: border-box;
+}
+#button-box.book {
+    text-align: center;
+}
+.home-title {
+    font-family: "Poppins", "Helvetica", "sans-serif";
+    font-size: 2em;
+    margin-top: 10px;
+}
+.msg p {
+    font-size: .8em;
+    color: white;
+}
+.msg {
+    background-color: #154467;
+    line-height: 1.5;
+}
+.msg h2 {
+    margin: 0;
+    color:#7dc4d5;
+    font-style: italic;
+    font-family: "Poppins", "Helvetica", "sans-serif";
+}
+.social.img {
+    padding-top: 15px;
+}
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+.card-img {
+    border: 10px solid #7dc4d5;
+}
+.mountains{
+    border: 10px solid #154467;
+}
