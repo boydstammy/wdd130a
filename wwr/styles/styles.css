@@ -3,7 +3,6 @@
 #content {
     max-width: 1600px;
     margin: 0 auto;
-    text-align: center;
 }
 nav a {
     text-align: center;
@@ -93,7 +92,7 @@ a.join:hover {
     text-decoration: none;
 }
 .logo {
-    width: 800px;
+    width: 80px;
     margin: 0 auto;
     text-align: center;
     margin-bottom: 30px;
